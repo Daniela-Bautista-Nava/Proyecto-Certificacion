@@ -17,7 +17,6 @@ ESTRUCTURA DEL PROYECTO
 - git clone https://github.com/tu-usuario/venta-paquetes-internet.git
 
 Instalar las dependencias:
-- cd venta-paquetes-internet
 - npm install
 - npm install near-api-js
 - npm install --save-dev jest
