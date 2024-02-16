@@ -18,6 +18,9 @@ Clonar el repositorio:
 Instalar las dependencias:
 - cd venta-paquetes-internet
 - npm install
+- npm install near-api-js
+- npm install --save-dev jest
+
 
 USO
 Para ejecutar las pruebas unitarias:
