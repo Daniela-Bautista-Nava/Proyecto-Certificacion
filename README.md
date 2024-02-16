@@ -10,6 +10,8 @@ ESTRUCTURA DEL PROYECTO
 - tests/: Contiene las pruebas unitarias del contrato inteligente.
 - README.md: Documentación del proyecto.
 - package.json: Archivo de configuración de Node.js que incluye las dependencias del proyecto.
+  
+-------------------------------------------------------------------------------------------------
 
 INSTALACIÓN
 Clonar el repositorio:
