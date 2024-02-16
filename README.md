@@ -1,5 +1,5 @@
 VENTA DE PAQUETES DE INTERNET EN NEAR
-Este proyecto implementa un contrato inteligente en la red NEAR que facilita la venta de paquetes de internet. Los usuarios pueden comprar paquetes de internet utilizando NEAR tokens.
+- Este proyecto implementa un contrato inteligente en la red NEAR que facilita la venta de paquetes de internet. Los usuarios pueden comprar paquetes de internet utilizando NEAR tokens.
 
 FUNCIONALIDADES
 - Agregar nuevos paquetes de internet con su respectivo precio.
