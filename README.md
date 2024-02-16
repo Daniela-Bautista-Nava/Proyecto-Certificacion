@@ -13,8 +13,7 @@ ESTRUCTURA DEL PROYECTO
   
 -------------------------------------------------------------------------------------------------
 
-INSTALACIÓN
-Clonar el repositorio:
+ Clonar el repositorio:
 - git clone https://github.com/tu-usuario/venta-paquetes-internet.git
 
 Instalar las dependencias:
@@ -23,7 +22,5 @@ Instalar las dependencias:
 - npm install near-api-js
 - npm install --save-dev jest
 
-
-USO
 Para ejecutar las pruebas unitarias:
 - npm test
