@@ -1,0 +1,16 @@
+{
+  "name": "venta-paquetes-internet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "near-api-js": "^3.0.2"
+  }
+}
+
