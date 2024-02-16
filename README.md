@@ -16,9 +16,9 @@ Clonar el repositorio:
 - git clone https://github.com/tu-usuario/venta-paquetes-internet.git
 
 Instalar las dependencias:
-cd venta-paquetes-internet
-npm install
+- cd venta-paquetes-internet
+- npm install
 
 USO
 Para ejecutar las pruebas unitarias:
-npm test
+- npm test
