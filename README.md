@@ -23,3 +23,6 @@ Instalar las dependencias:
 
 Para ejecutar las pruebas unitarias:
 - npm test
+
+VIDEO PROYECTO
+- https://www.canva.com/design/DAF8-Rfx00s/V2QhcTCPW-mHjY1ov8rx8w/edit?utm_content=DAF8-Rfx00s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
